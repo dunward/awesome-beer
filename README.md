@@ -7,3 +7,6 @@
 
 # FLIGHT
 [항공사별 맥주](FLIGHT.md)
+
+# CONVENIENCE
+[편의점 맥주 종류](CONVENIENCE.md)
